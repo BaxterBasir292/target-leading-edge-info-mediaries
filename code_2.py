@@ -1,59 +1,53 @@
-    }
 
-}
-    data.forEach(item => {
-function main() {
-    const data = generateRandomData();
-    });
-
-function generateRandomData() {
-        data.push(Math.floor(Math.random() * 100) + 1);
-    return data;
-main();
-    for (let i = 0; i < 10; i++) {
-}
-        console.log("Random Number: " + item);
-
-    const data = [];    main()
-
-import random
-def generate_random_data():
-
-        print(f"Random Number: {item}")
-def main():
-    return data
-
-    for item in data:
-if __name__ == "__main__":
-    data = [random.randint(1, 100) for _ in range(10)]
 
     data = generate_random_data()
 def main():
-
+    data = [random.randint(1, 100) for _ in range(10)]
+    main()
+    for item in data:
+def generate_random_data():
 import random
+    return data
 
+
+        print(f"Random Number: {item}")
+if __name__ == "__main__":    for item in data:
+    data = [random.randint(1, 100) for _ in range(10)]
+if __name__ == "__main__":
+import random
+        print(f"Random Number: {item}")
+
+
+def main():
 
 def generate_random_data():
     main()
+
     data = generate_random_data()
+    return data        print(f"Random Number: {item}")
+
+def main():
+    data = generate_random_data()
+
     return data
     data = [random.randint(1, 100) for _ in range(10)]
-if __name__ == "__main__":
-        print(f"Random Number: {item}")
+    main()
+def generate_random_data():
+
     for item in data:
-    const data = [];
-    });
-    return data;
-function generateRandomData() {
-        console.log("Random Number: " + item);
-main();
-    const data = generateRandomData();
-    }
-}
-}
-        data.push(Math.floor(Math.random() * 100) + 1);
+import random
 
-    for (let i = 0; i < 10; i++) {
+if __name__ == "__main__":def generate_random_data():
+    main()
+    for item in data:
+    data = [random.randint(1, 100) for _ in range(10)]
+if __name__ == "__main__":
 
-    data.forEach(item => {
-function main() {
+
+
+    return data
+import random
+
+        print(f"Random Number: {item}")
+def main():
+    data = generate_random_data()
