@@ -1,62 +1,56 @@
-    data = [random.randint(1, 100) for _ in range(10)]
+    }
+}
+function main() {
+function generateRandomData() {
+    const data = [];
+
+    for (let i = 0; i < 10; i++) {
+    });
+    const data = generateRandomData();
 
 
-
-    for item in data:
-    data = generate_random_data()
-def main():
+        console.log("Random Number: " + item);
+    return data;
+        data.push(Math.floor(Math.random() * 100) + 1);
+    data.forEach(item => {
+main();
+}
         print(f"Random Number: {item}")
+def generate_random_data():
 import random
 
+def main():
+    for item in data:
+    data = generate_random_data()
+
+    main()
+if __name__ == "__main__":
+
+    data = [random.randint(1, 100) for _ in range(10)]
+    return data
 def generate_random_data():
+
+def main():
+    for item in data:
+
+    data = [random.randint(1, 100) for _ in range(10)]
+        print(f"Random Number: {item}")
+    main()
+if __name__ == "__main__":
+    return data
+
+    data = generate_random_data()
+import random    data = [random.randint(1, 100) for _ in range(10)]
     main()
     return data
-if __name__ == "__main__":    const data = [];
-    });
-
-function generateRandomData() {
-
-    data.forEach(item => {
-    return data;
-        data.push(Math.floor(Math.random() * 100) + 1);
-main();
-}
-function main() {
-    const data = generateRandomData();
-}
-        console.log("Random Number: " + item);
-    }
-
-    for (let i = 0; i < 10; i++) {    for (let i = 0; i < 10; i++) {
-}
-    const data = generateRandomData();
-    return data;
-    }
-    const data = [];
-        console.log("Random Number: " + item);
-
-main();
-function main() {
-function generateRandomData() {
-}
-        data.push(Math.floor(Math.random() * 100) + 1);
+    data = generate_random_data()
+def main():
+import random
+        print(f"Random Number: {item}")
 
 
-    });
-    data.forEach(item => {    return data;
-    for (let i = 0; i < 10; i++) {
-        data.push(Math.floor(Math.random() * 100) + 1);
-function main() {
-main();
-    const data = [];
 
-    }
-        console.log("Random Number: " + item);
+if __name__ == "__main__":
+    for item in data:
 
-
-    const data = generateRandomData();
-    });
-}
-function generateRandomData() {
-}
-    data.forEach(item => {
+def generate_random_data():
